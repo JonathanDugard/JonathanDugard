@@ -11,8 +11,8 @@ I thrive in environments where teamwork is key, which is why I’ve consistently
 
 If you're looking for someone who can bring both leadership and technical excellence to your project, don’t hesitate to **reach out**!
 
-[![Logo Alyra](https://avatars.githubusercontent.com/u/65595746?s=25)](https://www.alyra.fr/)
-I'm also actively involved in the Alyra School network.
+[![Logo Alyra](https://avatars.githubusercontent.com/u/92364319?s=30)](https://fr.superteam.fun/)
+I'm also active in Superteam France.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-dugard/)
